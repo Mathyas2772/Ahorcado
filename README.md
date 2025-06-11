@@ -18,8 +18,8 @@ Este proyecto implementa el juego del ahorcado con soporte para múltiples idiom
 - `high_scores.txt`: Almacena las puntuaciones más altas.
 
 ## Cómo Ejecutarlo
-1. Asegúrate de que la carpeta `words/` esté en el mismo directorio que `hangman.py`.
-2. Ejecuta el script:
+1. Asegurate que la carpeta `words/` esté en el mismo directorio que `hangman.py`.
+2. Ejecutá el script:
 ```
 python hangman.py
 ```
